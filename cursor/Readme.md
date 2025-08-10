@@ -1,4 +1,4 @@
-## Cursor SRE Copilot (with Cursor)
+## Cursor SRE Copilot
 
 Turn Cursor into a safe, structured AI SRE that works with the same Kubernetes tools you already use: `kubectl`, `helm`, `argocd`, `istioctl`, and more. This repo is an experiment and a blog companion showing how a simple `.cursorrules` file can make AI a reliable SRE copilot inside your editor — fast at diagnostics, explicit about reasoning, and always human‑approved before acting.
 
@@ -80,7 +80,7 @@ See `chat.md` for a real transcript troubleshooting a CrashLoopBackOff caused by
 - This is an experiment to showcase how far you can go with conventions and a single rule file — not a replacement for your on‑call playbooks
 - Extend the Diagnostic Plan to match your stack (e.g., service mesh, ingress controller, observability backends)
 
-## Cursor SRE Copilot (with Cursor)
+## Cursor SRE Copilot
 
 Turn Cursor into a safe, structured AI SRE that works with the same Kubernetes tools you already use: `kubectl`, `helm`, `argocd`, `istioctl`, and more. This repo is an experiment and a blog companion showing how a simple `.cursorrules` file can make AI a reliable SRE copilot inside your editor — fast at diagnostics, explicit about reasoning, and always human‑approved before acting.
 
